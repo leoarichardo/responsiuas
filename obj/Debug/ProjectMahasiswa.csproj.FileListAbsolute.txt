@@ -4,3 +4,9 @@ C:\Users\User\Downloads\Compressed\Petunjuk dan Soal Responsi\ProjectMahasiswa\P
 C:\Users\User\Downloads\Compressed\Petunjuk dan Soal Responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.CoreCompileInputs.cache
 C:\Users\User\Downloads\Compressed\Petunjuk dan Soal Responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
 C:\Users\User\Downloads\Compressed\Petunjuk dan Soal Responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
+D:\TUGAS KULIAH\Pemrograman\responsiuas\leo\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+D:\TUGAS KULIAH\Pemrograman\responsiuas\leo\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+D:\TUGAS KULIAH\Pemrograman\responsiuas\leo\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojAssemblyReference.cache
+D:\TUGAS KULIAH\Pemrograman\responsiuas\leo\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.CoreCompileInputs.cache
+D:\TUGAS KULIAH\Pemrograman\responsiuas\leo\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+D:\TUGAS KULIAH\Pemrograman\responsiuas\leo\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb

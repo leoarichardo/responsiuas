@@ -9,7 +9,7 @@ namespace ProjectMahasiswa
     {
         public string nim { get; set; }
         public string nama_mahasiswa { get; set; }
-        public char jenis_kelamin { get; set; }
+        public string jenis_kelamin { get; set; }
         public double ipk  { get; set; }
     }
 }

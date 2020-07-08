@@ -76,7 +76,19 @@ namespace ProjectMahasiswa
             Console.Write("Nama Mahasiswa: ");
             mahasiswa.nama_mahasiswa = Console.ReadLine();
             Console.Write("Jenis Kelamin [L/P] : ");
-            mahasiswa.jenis_kelamin = char.Parse(Console.ReadLine());
+            mahasiswa.jenis_kelamin = (Console.ReadLine());
+             if (mahasiswa.jenis_kelamin == "L")
+            {
+                mahasiswa.jenis_kelamin = "Laki-Laki";
+            }
+            else if (mahasiswa.jenis_kelamin == "P")
+            {
+                mahasiswa.jenis_kelamin = "Perempuan";
+            }
+            else
+            {
+                mahasiswa.jenis_kelamin = "Jenis Kelamin Tidak Teridentifikasi";
+            }
             Console.Write("IPK : ");
             mahasiswa.ipk = Convert.ToDouble(Console.ReadLine());
             daftarMahasiswa.Add(mahasiswa);
